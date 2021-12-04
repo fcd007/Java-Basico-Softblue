@@ -8,7 +8,7 @@ Java é uma das linguagens de programação mais utilizadas no mundo. Este curso
 
 A versão da linguagem apresentada no curso é o Java 16.
 
-##link do curso abaixo:
+## link do curso abaixo:
 https://www.softblue.com.br/site/curso/id/1/CURSO+DE+FUNDAMENTOS+DE+JAVA+16+BASICO+ON+LINE+JV01
 
 A IDE usada no curso de Java é o Eclipse, que é uma ferramenta de desenvolvimento gratuita e uma das preferidas dos desenvolvedores Java ao redor do mundo.
